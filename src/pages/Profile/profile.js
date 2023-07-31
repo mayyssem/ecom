@@ -1,6 +1,6 @@
 import "./style.scss";
 
-
+<section></section>
 <div></div>
 const Profile = () => {
     return (
