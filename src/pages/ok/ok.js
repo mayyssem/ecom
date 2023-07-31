@@ -2,12 +2,12 @@ import "./style.scss";
 
 
 <div></div>
-const Profile = () => {
+const Ok = () => {
     return (
      <div>aaaaaa
       <div>bbbbb</div>
      </div>
     );
   };
-  export default Profile;
+  export default Ok;
   
