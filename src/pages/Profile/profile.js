@@ -5,7 +5,8 @@ import "./style.scss";
 <div></div>
 const Profile = () => {
     return (
-     <div></div>
+     <div>     <div></div>
+     </div>
     );
   };
   export default Profile;
